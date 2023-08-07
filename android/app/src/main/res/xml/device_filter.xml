@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 0x2341 is Arduino LLC, the VID for an Arduino -->
+    <!-- 0x0043 is the PID for an Arduino Uno -->
+    <usb-device vendor-id="9025" product-id="67" />
+</resources>
